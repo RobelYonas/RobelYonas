@@ -1,16 +1,21 @@
-### Hi there 👋
+# 💫 About Me:
+🔭 I’m currently working on:<br>I am currently dedicating my efforts towards mastering software development, with a particular focus on exploring innovative technologies that can solve real-world problems. My aim is to not only excel in my studies but also to apply what I learn in practical, impactful projects.<br><br>👯 I’m looking to collaborate on:<br>I am eager to collaborate on projects that leverage technology to make a difference, especially those that require a team effort to innovate and create. I believe in the power of diverse teams, where each member contributes unique insights and skills, leading to more robust and creative solutions.<br><br>🤝 I’m looking for help with:<br>I am seeking guidance and mentorship in advanced software development techniques and best practices. Additionally, I would appreciate support in navigating team dynamics and project management to enhance my ability to contribute effectively in collaborative settings.<br><br>🌱 I’m currently learning:<br>I am currently expanding my knowledge in both the theoretical and practical aspects of software development. This includes not just coding and algorithms, but also understanding how technology can be applied to solve complex problems in innovative ways. I am also focused on improving my soft skills, such as leadership and communication, which are essential in a team environment.<br><br>💬 Ask me about:<br>Feel free to ask me about my experiences in software development, the projects I've worked on, and how I approach problem-solving in a team setting. I'm also happy to share insights about balancing academic pursuits with extracurricular activities, like swimming and organizing community events, which have played a significant role in developing my leadership and teamwork skills.<br><br>⚡ Fun fact:<br>A fun fact about me is that I often serve as a referee in football matches within our university community. This unique role has not only been a great way to stay connected with my love for sports but has also taught me invaluable lessons in fairness, decision-making, and managing dynamics in high-pressure situations.
 
-<!--
-**RobelYonas/RobelYonas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/robel-yonas-818b04205) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=RobelYonas&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=RobelYonas&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=RobelYonas&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### 😂 Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+
+---
+[![](https://visitcount.itsvg.in/api?id=RobelYonas&icon=8&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
