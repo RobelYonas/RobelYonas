@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Robel%20Yonas&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Engineer%20%7C%20ML%20Practitioner%20%7C%20Builder&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Robel%20Yonas&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20%7C%20ML%20Developer%20%7C%20Builder&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
 <!-- Typing animation -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Graduate+%40+Chalmers+%2F+GU+%F0%9F%87%B8%F0%9F%87%AA;Full-Stack+%26+Mobile+Developer+%F0%9F%93%B1;ML+%26+Data+Science+Enthusiast+%F0%9F%A7%A0;Building+things+that+matter+%F0%9F%9A%80)](https://git.io/typing-svg)
@@ -21,7 +21,7 @@
 ```python
 class Robel:
     location   = "Gothenburg, Sweden 🇸🇪"
-    role       = "Graduate Student · Software Engineer · ML Practitioner"
+    role       = "Graduate Student · Software Developer · ML Developer · Builder"
     education  = "M.Sc. Software Engineering & Data Science"
     building   = ["Mobile apps", "ML pipelines", "Data-driven systems"]
     learning   = ["MLOps", "Causal Inference", "Quantitative Finance"]
