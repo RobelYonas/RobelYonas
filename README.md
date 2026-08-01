@@ -1,19 +1,138 @@
-# 💫 About Me:
-🔭 I’m currently working on:<br>I am currently dedicating my efforts towards mastering software development, with a particular focus on exploring innovative technologies that can solve real-world problems. My aim is to not only excel in my studies but also to apply what I learn in practical, impactful projects.<br><br>👯 I’m looking to collaborate on:<br>I am eager to collaborate on projects that leverage technology to make a difference, especially those that require a team effort to innovate and create. I believe in the power of diverse teams, where each member contributes unique insights and skills, leading to more robust and creative solutions.<br><br>🤝 I’m looking for help with:<br>I am seeking guidance and mentorship in advanced software development techniques and best practices. Additionally, I would appreciate support in navigating team dynamics and project management to enhance my ability to contribute effectively in collaborative settings.<br><br>🌱 I’m currently learning:<br>I am currently expanding my knowledge in both the theoretical and practical aspects of software development. This includes not just coding and algorithms, but also understanding how technology can be applied to solve complex problems in innovative ways. I am also focused on improving my soft skills, such as leadership and communication, which are essential in a team environment.<br><br>💬 Ask me about:<br>Feel free to ask me about my experiences in software development, the projects I've worked on, and how I approach problem-solving in a team setting. I'm also happy to share insights about balancing academic pursuits with extracurricular activities, like swimming and organizing community events, which have played a significant role in developing my leadership and teamwork skills.<br><br>⚡ Fun fact:<br>A fun fact about me is that I often serve as a referee in football matches within our university community. This unique role has not only been a great way to stay connected with my love for sports but has also taught me invaluable lessons in fairness, decision-making, and managing dynamics in high-pressure situations.
+<div align="center">
 
+<!-- Animated header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Robel%20Yonas&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Engineer%20%7C%20ML%20Practitioner%20%7C%20Builder&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/robel-yonas) 
+<!-- Typing animation -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Graduate+%40+Chalmers+%2F+GU+%F0%9F%87%B8%F0%9F%87%AA;Full-Stack+%26+Mobile+Developer+%F0%9F%93%B1;ML+%26+Data+Science+Enthusiast+%F0%9F%A7%A0;Building+things+that+matter+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-# 💻 Tech Stack:
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=RobelYonas&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=RobelYonas&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RobelYonas&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<br/>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+[![Portfolio](https://img.shields.io/badge/%F0%9F%8C%90_Portfolio-robelyonas.vercel.app-A78BFA?style=for-the-badge&logoColor=white)](https://robelyonas.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Robel_Yonas-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/robel-yonas)
+[![Hireable](https://img.shields.io/badge/Status-Open_to_Work_%F0%9F%9F%A2-brightgreen?style=for-the-badge)](https://github.com/RobelYonas)
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=RobelYonas&icon=4&color=0)](https://visitcount.itsvg.in)
+
+## 🧬 Who am I?
+
+```python
+class Robel:
+    location   = "Gothenburg, Sweden 🇸🇪"
+    role       = "Graduate Student · Software Engineer · ML Practitioner"
+    education  = "M.Sc. Software Engineering & Data Science"
+    building   = ["Mobile apps", "ML pipelines", "Data-driven systems"]
+    learning   = ["MLOps", "Causal Inference", "Quantitative Finance"]
+    fun_fact   = "I referee football matches — split-second decisions under pressure 🎯"
+
+    def say_hi(self):
+        print("Let's build something impactful together 🚀")
+```
+
+---
+
+## 🔭 What I'm Up To
+
+- 🤖 Exploring **ML model interpretability** (SHAP, LIME, Bayesian methods)
+- 📱 Building cross-platform apps with **React Native + Expo + Supabase**
+- 📊 Diving into **statistical modeling** and causal inference with DAGs
+- 📈 Tinkering with **quantitative trading** strategies and stock analysis
+- 🧪 Sharpening **software quality** skills — TDD, property-based testing
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Frontend & Mobile**
+
+![React Native](https://img.shields.io/badge/React_Native-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+
+**Backend & Data**
+
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
+
+**ML & Data Science**
+
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+**DevOps & Tools**
+
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Mapbox](https://img.shields.io/badge/Mapbox-000000?style=for-the-badge&logo=mapbox&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0A0FFF?style=for-the-badge&logo=jira&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RobelYonas&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobelYonas&theme=tokyonight&hide_border=true&layout=compact&count_private=true"/>
+
+</div>
+
+<div align="center">
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=RobelYonas&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Stack |
+|--------|-------------|-------|
+| [🧠 ZeroAttack](https://github.com/RobelYonas/ZeroAttack) | Security/ML analysis project | Python · Jupyter |
+| [🌍 US Accidents Analysis](https://github.com/RobelYonas/us-accidents-safety-analysis) | Safety pattern analysis on large dataset | Python · Pandas |
+| [🧘 MindCare](https://github.com/RobelYonas/MindCare) | Mental health desktop app with mood tracking & meditation | Python |
+| [💪 NutriShapes](https://github.com/RobelYonas/NutriShapes) | Nutrition & fitness tracking app | JavaScript |
+| [🌦️ Weather Forecast](https://github.com/RobelYonas/weather_forecast) | Real-time weather app with live API | JavaScript |
+
+---
+
+## 💡 Dev Philosophy
+
+> *"Write code as if the next person reading it is a sleep-deprived version of yourself at 2 AM."*
+
+I believe in **test-driven thinking**, **clean abstractions**, and building software that's not just functional — but explainable, maintainable, and impactful.
+
+---
+
+<div align="center">
+
+[![](https://visitcount.itsvg.in/api?id=RobelYonas&label=Profile%20Views&icon=5&color=6&pretty=true)](https://visitcount.itsvg.in)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
+
+</div>
